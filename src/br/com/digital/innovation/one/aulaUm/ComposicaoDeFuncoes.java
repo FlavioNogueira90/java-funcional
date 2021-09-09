@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one;
+package br.com.digital.innovation.one.aulaUm;
 
 import java.util.Arrays;
 
